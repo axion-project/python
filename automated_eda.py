@@ -128,4 +128,8 @@ def main():
         train_and_evaluate_model(data)
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main
+=======
+    main()
+>>>>>>> 874d63dd0558d9f0f976f8bb0b54f036f972ee24
